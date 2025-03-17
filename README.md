@@ -1,4 +1,4 @@
-# Day-2-Assignment
+# GITandGITHUB_Day-2-Assignment  
 1. Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Fundamental Concepts of Version Control:
     Tracking Changes: Records modifications to files over time.
